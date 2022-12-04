@@ -7,3 +7,12 @@ The ‘MCQ Quiz Application’ project developed to overcome the time consuming 
 **Theme**
 
 The datazzoids is specially designed for the Data science students and it carries aroound 10 question related to the field of Data science. The Quiz app is designed in such a way that each question carries around 15 seconds.
+
+**Files**
+
+This project consists of 4 different files required for the smooth functioning of the program.
+1. Login.java- This page is designed for the login page where the students have to type their name and enter into the quiz page.
+2. Rules.java- followed by the login page is the Rules page where the instruction for the candidates are mentioned before starting the exam
+3. Quiz.java- This file contains the core concept of the whole application. This is the file which consists of all the required question and options. The timer option is also provided so that the students can't cheat in particular questions.
+4. Scores.java - This is the file where the students score on the test is displayed. It also has the return option where the students can go back and re attempt the question.
+
