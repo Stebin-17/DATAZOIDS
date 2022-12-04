@@ -18,4 +18,9 @@ This project consists of 4 different files required for the smooth functioning o
 
 **WORK-FLOW**
 
+_Pic:_
+
+![image](https://user-images.githubusercontent.com/114398468/205483373-fe7e534e-c205-4ced-bb8e-47ebb7dabb46.png)
+
+
 Click on the login.java file in the src/quiz/application folder. The demo of the working of the app is given in the link below:
