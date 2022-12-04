@@ -22,7 +22,8 @@ _Pic:_
 
 ![image](https://user-images.githubusercontent.com/114398468/205483373-fe7e534e-c205-4ced-bb8e-47ebb7dabb46.png)
 
+Click on the login.java file in the src/quiz/application folder. 
 
-Click on the login.java file in the src/quiz/application folder. The demo of the working of the app is given in the link below:
+The demo of the working of the app is given in the link below:
 
 https://drive.google.com/file/d/1dTli-pWvK-pNnhAdvtKMnxjvWvqRVXM6/view?usp=sharing
