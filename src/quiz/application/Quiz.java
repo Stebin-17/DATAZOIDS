@@ -78,7 +78,7 @@ public class Quiz extends JFrame implements ActionListener {
         questions[5][3] = "Machine Learning";
         questions[5][4] = "Data Wrangling";
 
-        questions[6][0] = "Out of the given options, which of the following algorithms uses the least memory?";
+        questions[6][0] = "which of the following algorithms uses the least memory?";
         questions[6][1] = "DFS";
         questions[6][2] = "BFS";
         questions[6][3] = "Both A and B are the same";
