@@ -72,7 +72,7 @@ public class Quiz extends JFrame implements ActionListener {
         questions[4][3] = "linear regression";
         questions[4][4] = "Decision tree";
 
-        questions[5][0] = "Among the following options choose which one of the following focuses on the discovery of unknown properties on the data?";
+        questions[5][0] = "which one of the following focuses on the discovery of unknown properties on the data?";
         questions[5][1] = "Big Data.";
         questions[5][2] = "Data Mining";
         questions[5][3] = "Machine Learning";
@@ -84,7 +84,7 @@ public class Quiz extends JFrame implements ActionListener {
         questions[6][3] = "Both A and B are the same";
         questions[6][4] = "can not be compared";
 
-        questions[7][0] = "Among the following logic function, which of the following cannot be implemented by a  perceptron having two inputs?";
+        questions[7][0] = "which of the following cannot be implemented by a  perceptron having two inputs?";
         questions[7][1] = "XOR";
         questions[7][2] = "OR";
         questions[7][3] = "NOR";
@@ -96,7 +96,7 @@ public class Quiz extends JFrame implements ActionListener {
         questions[8][3] = "Sigmoid";
         questions[8][4] = "Softmax";
 
-        questions[9][0] = "Among the following SGD  variant, which of the following is based on both Momentum and adaptive learning?";
+        questions[9][0] = "which of the following is based on both Momentum and adaptive learning?";
         questions[9][1] = "RMSprop";
         questions[9][2] = "Adam";
         questions[9][3] = "Nesterov";
