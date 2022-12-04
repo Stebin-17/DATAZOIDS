@@ -17,4 +17,5 @@ This project consists of 4 different files required for the smooth functioning o
 4. Scores.java - This is the file where the students score on the test is displayed. It also has the return option where the students can go back and re attempt the question.
 
 **WORK-FLOW**
-CLICK on the login.java file in the src/quiz/application folder. The demo of the working of the app is given in the link below:
+
+Click on the login.java file in the src/quiz/application folder. The demo of the working of the app is given in the link below:
