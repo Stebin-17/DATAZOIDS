@@ -16,3 +16,6 @@ This project consists of 4 different files required for the smooth functioning o
 3. Quiz.java- This file contains the core concept of the whole application. This is the file which consists of all the required question and options. The timer option is also provided so that the students can't cheat in particular questions.
 4. Scores.java - This is the file where the students score on the test is displayed. It also has the return option where the students can go back and re attempt the question.
 
+**WORK-FLOW**
+
+Click on the login.java file in the src/quiz/application folder. The demo of the working of the app is given in the link below:
