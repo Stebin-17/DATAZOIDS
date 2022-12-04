@@ -34,12 +34,12 @@ public class Quiz extends JFrame implements ActionListener {
         
         qno = new JLabel();
         qno.setBounds(100, 450, 50, 30);
-        qno.setFont(new Font("Tahoma", Font.PLAIN, 24));
+        qno.setFont(new Font("Tahoma", Font.PLAIN, 20));
         add(qno);
         
         question = new JLabel();
         question.setBounds(150, 450, 900, 30);
-        question.setFont(new Font("Tahoma", Font.PLAIN, 24));
+        question.setFont(new Font("Tahoma", Font.PLAIN, 20));
         add(question);
         
         questions[0][0] = "Which of the following is not a part of the data science process?";
@@ -60,7 +60,7 @@ public class Quiz extends JFrame implements ActionListener {
         questions[2][3] = "number of attributes";
         questions[2][4] = "number of iterations";
 
-        questions[3][0] = "Which of the following machine learning algorithm is based upon the idea of bagging?";
+        questions[3][0] = "Machine learning algorithm which is based upon the idea of bagging?";
         questions[3][1] = "decision tree";
         questions[3][2] = "random-forest";
         questions[3][3] = "Classification";
